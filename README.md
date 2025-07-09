@@ -28,18 +28,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayberkarslannn&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayberkarslannn&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🗂️ Projects Showcase
 
 Here are some of the projects I’ve worked on:
@@ -68,3 +56,17 @@ Here are some of the projects I’ve worked on:
 
 - **[Dead Nukes](https://www.roblox.com/games/80779025753426/Dead-Nukes-Alpha)**  
   Multiplayer survival game developed using Roblox Studio and Lua scripting.
+
+---
+  
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayberkarslannn&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayberkarslannn&theme=radical" alt="GitHub Streak" />
+</p>
+
+
