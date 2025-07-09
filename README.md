@@ -1,5 +1,3 @@
-<img width="896" alt="resim" src="https://github.com/user-attachments/assets/b29472dd-d6b7-4f0c-9e28-da91317a36f9" />
-
 <h1 align="center">Hi 👋, I'm Ayberk</h1>
 <h3 align="center">A passionate mobile & web developer | Roblox Game Creator</h3>
 
