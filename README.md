@@ -20,6 +20,7 @@
 
 - 🟣 Discord: **ayberk2894**
 - 📸 Instagram: [@ayberkarslan](https://instagram.com/ayberk.arsln)
+- 📧 Mail: [info@ayberkarslan.net](mailto:info@ayberkarslan.net)
 
 ---
 
